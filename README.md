@@ -147,7 +147,7 @@ Command line invocation facilitates continuous integration and continuous insp
  
 3、加入脚本就Ok了。
 
-![screenshot.png][1]
+![screenshot.png][8]
 
 <h3>推荐插件安装</h3>
 
@@ -183,4 +183,4 @@ type_body_length:
 
 这个意思就是body里的代码行数超过100时会出现warning，当超过200行时，会报error。
 
-  [1]: http://www.hetianxiong.com/usr/uploads/2016/07/3991851365.png
+  [8]: http://www.hetianxiong.com/usr/uploads/2016/07/3991851365.png
