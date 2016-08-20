@@ -183,4 +183,6 @@ type_body_length:
 
 这个意思就是body里的代码行数超过100时会出现warning，当超过200行时，会报error。
 
+OK!介绍完毕，基本使用应该没问题，想详细了解的可去官网进行研究。
+
   [8]: http://www.hetianxiong.com/usr/uploads/2016/07/3991851365.png
